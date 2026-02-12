@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\dto\\responsepagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:dto\\responsepagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\implementations\\descuentoregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:implementations\\descuentoregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\implementations\\descuentovip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:implementations\\descuentovip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\interfaces\\idescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:interfaces\\idescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|c:\\users\\percy\\source\\repos\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C804-67D6-4D37-A872-4B0E2D9C450B}|TESTAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagoService.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Services\\PagoService.cs",
+              "RelativeDocumentMoniker": "Services\\PagoService.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Services\\PagoService.cs",
+              "RelativeToolTip": "Services\\PagoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:17:54.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponsePagoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\DTO\\ResponsePagoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponsePagoDTO.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\DTO\\ResponsePagoDTO.cs",
+              "RelativeToolTip": "DTO\\ResponsePagoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:20:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DescuentoRegular.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Implementations\\DescuentoRegular.cs",
+              "RelativeDocumentMoniker": "Implementations\\DescuentoRegular.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Implementations\\DescuentoRegular.cs",
+              "RelativeToolTip": "Implementations\\DescuentoRegular.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:36:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:23:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DescuentoVip.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Implementations\\DescuentoVip.cs",
+              "RelativeDocumentMoniker": "Implementations\\DescuentoVip.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Implementations\\DescuentoVip.cs",
+              "RelativeToolTip": "Implementations\\DescuentoVip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:20:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "Controllers\\PagoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:16:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Interfaces\\IDescuento.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDescuento.cs",
+              "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Interfaces\\IDescuento.cs",
+              "RelativeToolTip": "Interfaces\\IDescuento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:29:20.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

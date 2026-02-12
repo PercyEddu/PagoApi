@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TESTAPI.Controllers.PagoController",
+    "Method": "Procesar",
+    "RelativePath": "api/Pago",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "monto",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
