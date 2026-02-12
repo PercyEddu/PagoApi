@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -51,8 +51,11 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T10:17:54.491Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -64,8 +67,7 @@
               "RelativeToolTip": "DTO\\ResponsePagoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T11:20:47.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T11:20:47.419Z"
             },
             {
               "$type": "Document",
@@ -77,8 +79,7 @@
               "RelativeToolTip": "Implementations\\DescuentoRegular.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:36:45.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:36:45.321Z"
             },
             {
               "$type": "Document",
@@ -90,8 +91,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:23:22.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:23:22.264Z"
             },
             {
               "$type": "Document",
@@ -103,8 +103,7 @@
               "RelativeToolTip": "Implementations\\DescuentoVip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:20:35.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:20:35.98Z"
             },
             {
               "$type": "Document",
@@ -114,7 +113,7 @@
               "RelativeDocumentMoniker": "Controllers\\PagoController.cs",
               "ToolTip": "C:\\Users\\Percy\\source\\repos\\TESTAPI\\Controllers\\PagoController.cs",
               "RelativeToolTip": "Controllers\\PagoController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T10:16:17.745Z",
               "EditorCaption": ""
@@ -129,8 +128,7 @@
               "RelativeToolTip": "Interfaces\\IDescuento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:29:20.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:29:20.894Z"
             }
           ]
         }
